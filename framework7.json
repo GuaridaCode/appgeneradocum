@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\pchome\\Desktop\\devs\\apps\\appgeneradoc",
+  "type": [
+    "web"
+  ],
+  "name": "generadoc",
+  "framework": "vue",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#00ADC3",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
